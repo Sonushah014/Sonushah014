@@ -5,7 +5,7 @@
 
 🔭 I’m currently working on MERN stack
 
-🌱 I’m currently learning Cloud Services
+🌱 I’m currently learning full stack developer
 
 👨‍💻 All of my projects are available at https://sonu2072.vercel.app/
 
