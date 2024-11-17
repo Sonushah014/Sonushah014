@@ -18,11 +18,3 @@
 🌐 Socials:
 Instagram LinkedIn X
 
-💻 Tech Stack:
-C CSS3 HTML5 Java JavaScript Python TypeScript Firebase Vercel Express.js Next JS NodeJS React SASS Socket.io TailwindCSS MySQL MongoDB Firebase Postgres Git Anaconda
-
-📊 GitHub Stats:
-<!---
-Sonushah014/Sonushah014 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
