@@ -5,7 +5,7 @@
 
 🔭 I’m currently working on MERN stack
 
-🌱 I’m currently learning full stack developer
+🌱 I’m currently learning Cloud Services
 
 💬 Ask me about React, MongoDB, JAVA Etc.
 
